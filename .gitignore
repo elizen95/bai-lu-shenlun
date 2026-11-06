@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*~
+*.tmp
+~$*
+
+# Personal learning records
+state/
+__pycache__/
+*.pyc
+*.lock
